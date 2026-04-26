@@ -1,2 +1,2 @@
-# YuktiByte-Classroom
+# Classroom
 Interaction of Teachers and students
